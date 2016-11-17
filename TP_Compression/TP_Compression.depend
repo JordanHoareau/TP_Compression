@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478251901 source:c:\users\norabbit\desktop\tp_compression\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

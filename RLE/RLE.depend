@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477471908 source:c:\users\norabbit\desktop\rle\src\generation_bits_correles.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
