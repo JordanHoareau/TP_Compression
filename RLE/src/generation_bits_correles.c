@@ -5,7 +5,7 @@
 int main(){
     srand(time(NULL));
     FILE *P_FICHIER; /* pointeur sur FILE */
-    char NOM_FICHIER[255] = "C:\\Users\\norabbit\\Documents\\TP_RLE\\TP_Compression\\files\\VAL_Cor";
+    char NOM_FICHIER[255] = "C:\\Users\\norabbit\\Documents\\TP_Compression\\TP_Compression\\files\\Cor";
     int nombre_chaines =0;
     int longueur_fichier = 0;
     int nb_suite;
